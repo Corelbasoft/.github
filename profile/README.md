@@ -41,5 +41,5 @@ En **Corelbasoft** nos especializamos en ingeniería y desarrollo de software a 
 
 ¿Tienes un proyecto en mente o buscas colaborar con nosotros?
 
-* ✉️ **Correo electrónico:** [contacto@corelbasoft@gmail.com](mailto:contacto@corelbasoft@gmail.com)
+* ✉️ **Correo electrónico:** [corelbasoft@gmail.com](mailto:corelbasoft@gmail.com)
 * 📍 **Ubicación:** Quintana Roo, México
