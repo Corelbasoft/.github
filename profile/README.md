@@ -6,7 +6,6 @@
   <p><strong>Transformamos requerimientos e ideas en software robusto, escalable y moderno.</strong></p>
 
   <p>
-    <a href="https://corelbasoft.com"><img src="https://img.shields.io/badge/Sitio_Web-Corelbasoft-007acc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web" /></a>
     <a href="mailto:corelbasoft@gmail.com"><img src="https://img.shields.io/badge/Email-corelbasoft%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.instagram.com/corelbasoft/"><img src="https://img.shields.io/badge/Instagram-@corelbasoft-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://www.facebook.com/profile.php?id=61586571789073"><img src="https://img.shields.io/badge/Facebook-Corelbasoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
